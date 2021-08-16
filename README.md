@@ -66,12 +66,12 @@ Boston Consultancy Group
 
 <!-- Add your details -->
 
-#### Classification based projects
-![alt text](https://raw.githubusercontent.com/krvishwesh54/Kumar-Vishwesh/main/images/Classification.png)
+#### Image detection based projects using OPENCV
+![alt text](https://raw.githubusercontent.com/akavcuaha/Tang_Wei_Qiang/main/Nitrogen%20atom%20detection.jpg)
 
-In machine learning, classification refers to a predictive modeling problem where a class label is predicted for a given example of input data.
+This is a program using openCV to run through an image of a macromolecule to detect different element atoms.
 
-[Click here to view codebase](https://github.com/krvishwesh54/DataScience_DeepLearning_MachineLearning/tree/master/Classification)
+[Click here to view codebase](https://github.com/akavcuaha/Tang_Wei_Qiang/tree/main/Python/ImageDetectionMolecule)
 
 #### Regression based projects
 ![alt text](https://raw.githubusercontent.com/krvishwesh54/Kumar-Vishwesh/main/images/Regression.jpg)
