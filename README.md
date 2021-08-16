@@ -61,9 +61,6 @@ Boston Consultancy Group
 ### PROJECTS
 <!-- Add your details -->
 
-[Classification based projects](#classification-based-projects) <br>
-[Regression based projects](#regression-based-projects) <br>
-
 <!-- Add your details -->
 
 #### Image detection based projects using OPENCV
