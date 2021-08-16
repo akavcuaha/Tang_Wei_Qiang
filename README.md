@@ -12,11 +12,13 @@
 ### ABOUT
 <!-- Add link to your picture -->
 
-![alt text](https://raw.githubusercontent.com/krvishwesh54/Kumar-Vishwesh/main/images/profile.jpg)
+![alt text](https://github.com/akavcuaha/Tang_Wei_Qiang/blob/main/profile%20pic.png)
 
 <!-- Add your details -->
 
-I am __Kumar Vishwesh__, a seasoned data scientist with ~7 years of progressive experience in artificial intelligence. I have contributed as an AI product developer (R&D unit) and been AI consultant for top-notch clients in their AI journey. I am involved in comprehensive development, design & analysis of AI algorithms to build analytical solutions, while facilitating and leading data science teams.
+I am __TANG WEI QIANG__. I have worked in the defence industry for 8 years as an mechanical engineer and have been involved is different stages of the product development including the design, production, training and even marketing phase. This enabled me a holistic insight of the entire project in hand. I have been involved in the development of 6 projects and handle up to 8 developed systems which comprises of weaponry to higher level system. 
+I am a firm believer that one should always keep abreast with new technology as technology are the reason that we are empowered to achieve what we have today. Engineering these days is not limited to jus mechanical, electrical but really evolve as a system integrating different fields together. As digitisation is happening across the world, I am excited to be part of this wave of change which is the reason why i decided to join BCG RISE programme to learn more about essential skills for Data Analystics (Python, SQL, PowerBi, AGILE). 
+
 
 
 <!-- Add link to the sections -->
@@ -31,21 +33,27 @@ I am __Kumar Vishwesh__, a seasoned data scientist with ~7 years of progressive 
 ### EXPERIENCE
 <!-- Add your details -->
 ##### BOSTON CONSULTING GROUP
-SENIOR ANALYST<br>
-June-2019 to Present: 1 year 10 Months
+Assistant Principal Engineer<br>
+2012 to 2020: 8 years
 
-ROLE: Data Scientist/ Machine Learning Engineer/ AI Consultant
-UNIT: BCG GAMMA
+ROLE: Deputy Head, Small Arms Group
+UNIT: Advanced Material Engineering
 
-Working on various analytics based cases that facilitates clients for next-generation AI strategy. Involved in asset building while applying scientific algorithms on a huge amount of text, time-series data, images and other forms of unstructured data.
+Involved in the design, prototyping, verification, and training of new weapon systems. For system in production, I am responsible for cost/design reviews, customer engagement and troubleshooting. Over the years, I took on additional roles of business sector innovation taskforce and patent committee PIC which developed my time management and multi-tasking capability. Responsible for product demonstrations and customers visits which account to approximately 20 times annually including two Singapore Airshows (2018, 2020). 
 
 <!-- EXPERIENCE Section Ends -->
 
 <!-- EDUCATION Section Starts -->
 ### EDUCATION
 <!-- Add your details -->
-##### LNCT Bhopal
-Engineering Graduate 2010-14, First Division
+##### Bachelor of Engineering- Mechanical Engineering 
+Nanyang Technological University
+2nd Upper Honors
+
+##### BCG RISE PROGRAMME
+Boston Consultancy Group
+-Part of the BCG RISE program group to learn analytical skills, dashboard design and business consultation
+-SQL, Python, AGILE, Business intelligence, statistical analysis and regression, machine learning algorithm and build business case
 
 <!-- EDUCATION Section Ends -->
 
@@ -78,8 +86,9 @@ Regression is a supervised learning technique which helps in finding the correla
 ## FEATURED
 <!-- Add your details -->
 ##### Certifications
-Machine Learning by Columbia University
+BCG RISE PROGRAMME
 
 ##### Achievements
-Star performer of the year at Accenture
+2 Patents - Forward Ejection mechanism, Barrel Opening Mechanism
+ST Kinetics Scholarship 2010
 <!-- FEATURED Section Ends -->
