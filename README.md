@@ -73,12 +73,12 @@ This is a program using openCV to run through an image of a macromolecule to det
 
 [Click here to view codebase](https://github.com/akavcuaha/Tang_Wei_Qiang/tree/main/Python/ImageDetectionMolecule)
 
-#### Regression based projects
-![alt text](https://raw.githubusercontent.com/krvishwesh54/Kumar-Vishwesh/main/images/Regression.jpg)
+#### SQL Projects
+![alt text](https://raw.githubusercontent.com/akavcuaha/Tang_Wei_Qiang/main/SQL.png)
 
-Regression is a supervised learning technique which helps in finding the correlation between variables and enables us to predict the continuous output variable based on the one or more predictor variables.
+SQL (Structured Query Language) is a domain-specific language used in programming and designed for managing data held in a relational database management system, or for stream processing in a relational data stream management system. It is particularly useful in handling structured data, i.e. data incorporating relations among entities and variables.
 
-[Click here to view codebase](https://github.com/krvishwesh54/DataScience_DeepLearning_MachineLearning/tree/master/Regression)
+[Click here to view codebase](https://github.com/akavcuaha/Tang_Wei_Qiang/tree/main/SQLcodes)
 
 <!-- PROJECTS Section Ends -->
 
