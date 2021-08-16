@@ -12,7 +12,7 @@
 ### ABOUT
 <!-- Add link to your picture -->
 
-![alt text](https://github.com/akavcuaha/Tang_Wei_Qiang/blob/main/profile%20pic.png)
+![alt text](https://raw.githubusercontent.com/akavcuaha/Tang_Wei_Qiang/main/profile%20pic.png)
 
 <!-- Add your details -->
 
