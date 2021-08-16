@@ -87,5 +87,6 @@ BCG RISE PROGRAMME
 
 ##### Achievements
 2 Patents - Forward Ejection mechanism, Barrel Opening Mechanism
+
 ST Kinetics Scholarship 2010
 <!-- FEATURED Section Ends -->
