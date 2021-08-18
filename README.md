@@ -77,6 +77,20 @@ SQL (Structured Query Language) is a domain-specific language used in programmin
 
 [Click here to view codebase](https://github.com/akavcuaha/Tang_Wei_Qiang/tree/main/SQLcodes)
 
+#### Dashboard Projects
+![alt text](https://raw.githubusercontent.com/akavcuaha/Tang_Wei_Qiang/main/dashboard.png)
+
+Power BI dashboard to translate data into visualisations to communicate/explain key parameters, trends and potential areas for improvement.
+
+[Click here to view codebase](https://github.com/akavcuaha/Tang_Wei_Qiang/tree/main/dashboard)
+
+#### Sampling Analysis Projects
+![alt text](https://raw.githubusercontent.com/akavcuaha/Tang_Wei_Qiang/main/bootstrap%20sampling.png)
+
+Using python to perform statistic analysis of sample data to make data driven decision.
+
+[Click here to view codebase](https://github.com/akavcuaha/Tang_Wei_Qiang/tree/main/Statistic)
+
 <!-- PROJECTS Section Ends -->
 
 <!-- FEATURED Section Starts -->
