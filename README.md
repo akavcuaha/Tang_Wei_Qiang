@@ -32,7 +32,7 @@ I am a firm believer that one should always keep abreast with new technology as 
 <!-- EXPERIENCE Section Starts -->
 ### EXPERIENCE
 <!-- Add your details -->
-##### BOSTON CONSULTING GROUP
+##### ST LAND SYSTEM 
 Assistant Principal Engineer<br>
 2012 to 2020: 8 years
 
