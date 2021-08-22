@@ -92,7 +92,7 @@ Using python to perform statistic analysis of sample data to make data driven de
 [Click here to view codebase](https://github.com/akavcuaha/Tang_Wei_Qiang/tree/main/Statistic)
 
 #### Data Correlation Projects
-![alt text](https://raw.githubusercontent.com/akavcuaha/Tang_Wei_Qiang/main/bootstrap%20sampling.png)
+![alt text](https://raw.githubusercontent.com/akavcuaha/Tang_Wei_Qiang/main/data%20correlation.png)
 
 Using python to perform data exploration and correlation analysis.
 
