@@ -16,7 +16,7 @@
 
 <!-- Add your details -->
 
-I am __TANG WEI QIANG__. I have worked in the defence industry for 8 years as an mechanical engineer and have been involved is different stages of the product development including the design, production, training and even marketing phase. This enabled me a holistic insight of the entire project in hand. I have been involved in the development of 6 projects and handle up to 8 developed systems which comprises of weaponry to higher level system. 
+I am __TANG WEI QIANG__. I have worked in the defence industry for 8 years as a mechanical engineer and have been involved is different stages of the product development including the design, production, training and even marketing phase. This enabled me a holistic insight of the entire project in hand. I have been involved in the development of 6 projects and handle up to 8 developed systems which comprises of weaponry to higher level system. 
 I am a firm believer that one should always keep abreast with new technology as technology are the reason that we are empowered to achieve what we have today. Engineering these days is not limited to jus mechanical, electrical but really evolve as a system integrating different fields together. As digitisation is happening across the world, I am excited to be part of this wave of change which is the reason why i decided to join BCG RISE programme to learn more about essential skills for Data Analystics (Python, SQL, PowerBi, AGILE). 
 
 
