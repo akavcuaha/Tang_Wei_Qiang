@@ -91,12 +91,19 @@ Using python to perform statistic analysis of sample data to make data driven de
 
 [Click here to view codebase](https://github.com/akavcuaha/Tang_Wei_Qiang/tree/main/Statistic)
 
-#### Data Correlation Projects
+#### Data Correlation/Feature identification Projects
 ![alt text](https://raw.githubusercontent.com/akavcuaha/Tang_Wei_Qiang/main/data%20correlation.png)
 
 Using python to perform data exploration and correlation analysis.
 
 [Click here to view codebase](https://github.com/akavcuaha/Tang_Wei_Qiang/tree/main/datacorrelation)
+
+#### Machine Learning Projects
+![alt text](https://raw.githubusercontent.com/akavcuaha/Tang_Wei_Qiang/main/sarimax.png)
+
+Using python to perform machine learning to do prediction and forecasting. Familiar with model including linear regression, random forest classifier, KNN clustering and SARIMAX.
+
+[Click here to view codebase](https://github.com/akavcuaha/Tang_Wei_Qiang/tree/main/Machine%20learning)
 
 <!-- PROJECTS Section Ends -->
 
@@ -105,6 +112,7 @@ Using python to perform data exploration and correlation analysis.
 <!-- Add your details -->
 ##### Certifications
 BCG RISE PROGRAMME
+Top 2 team achievement
 
 ##### Achievements
 2 Patents - Forward Ejection mechanism, Barrel Opening Mechanism
