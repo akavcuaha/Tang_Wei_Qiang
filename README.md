@@ -101,6 +101,8 @@ Using python to perform data exploration and correlation analysis.
 #### Machine Learning Projects
 ![alt text](https://raw.githubusercontent.com/akavcuaha/Tang_Wei_Qiang/main/sarimax.png)
 
+![alt text](https://raw.githubusercontent.com/akavcuaha/Tang_Wei_Qiang/main/forecast.png)
+
 Using python to perform machine learning to do prediction and forecasting. Familiar with model including linear regression, random forest classifier, KNN clustering and SARIMAX.
 
 [Click here to view codebase](https://github.com/akavcuaha/Tang_Wei_Qiang/tree/main/Machine%20learning)
