@@ -3,7 +3,7 @@
 
 <!-- Add your details -->
 ✉️: email_tweiqiang1987@gmail.com
-&nbsp;&nbsp; 📲 +91-80303404 
+&nbsp;&nbsp; 📲 +65-80303404 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [LinkedIn](https://www.linkedin.com/in/weiqiangtang) 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Website](https://www.linkedin.com/in/weiqiangtang)
 <!-- CONTACT Section Ends -->
